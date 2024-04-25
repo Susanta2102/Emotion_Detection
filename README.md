@@ -63,3 +63,4 @@ streamlit run main.py
 The application will be available in your browser at http://localhost:8501.
 
 
+# Emotion_Detection
